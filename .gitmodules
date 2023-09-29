@@ -1,6 +1,6 @@
-[submodule "PDVC/PDVC_original"]
-	path = PDVC/PDVC_original
-	url = https://github.com/ttengwang/PDVC
 [submodule "BMT/BMT_original"]
 	path = BMT/BMT_original
 	url = https://github.com/v-iashin/BMT
+[submodule "PDVC/PDVC_original"]
+	path = PDVC/PDVC_original
+	url = https://github.com/ttengwang/PDVC

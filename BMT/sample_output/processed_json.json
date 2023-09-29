@@ -1,0 +1,3292 @@
+{
+      "results": {
+            "Robbery005_x264": [
+                  {
+                        "timestamp": [
+                              0.2,
+                              10.1
+                        ],
+                        "raw_box": [
+                              0.2,
+                              10.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see the ending title screen",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 91.997,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              72.3,
+                              92.0
+                        ],
+                        "raw_box": [
+                              72.3,
+                              92.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen speaking to the camera and leads into them working on the wall",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 91.997,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              2.2
+                        ],
+                        "raw_box": [
+                              0.0,
+                              2.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see a title screen",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 91.997,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              31.8
+                        ],
+                        "raw_box": [
+                              0.0,
+                              31.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a table with a man and leads into him playing a game of ping pong",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 91.997,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              92.0
+                        ],
+                        "raw_box": [
+                              0.0,
+                              92.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking around a building and speaking to the camera",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 91.997,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              25.3,
+                              53.9
+                        ],
+                        "raw_box": [
+                              25.3,
+                              53.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "He continues to play while the camera captures him from the camera",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 91.997,
+                        "pred_event_count": 6
+                  }
+            ],
+            "RoadAccidents002_x264": [
+                  {
+                        "timestamp": [
+                              6.8,
+                              11.6
+                        ],
+                        "raw_box": [
+                              6.8,
+                              11.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man in the black shirt walks away",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 11.621,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.7,
+                              6.4
+                        ],
+                        "raw_box": [
+                              0.7,
+                              6.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man in the black shirt walks away",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 11.621,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              2.0
+                        ],
+                        "raw_box": [
+                              0.0,
+                              2.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man in a black shirt walks up to the camera",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 11.621,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.2,
+                              0.9
+                        ],
+                        "raw_box": [
+                              0.2,
+                              0.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man in a black shirt is standing on a sidewalk",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 11.621,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              10.8,
+                              11.6
+                        ],
+                        "raw_box": [
+                              10.8,
+                              11.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A woman is seen sitting on a chair with a woman in her hand",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 11.621,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Burglary001_x264A": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              132.4
+                        ],
+                        "raw_box": [
+                              0.0,
+                              132.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is working on a house",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 132.377,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              41.0
+                        ],
+                        "raw_box": [
+                              0.0,
+                              41.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a sidewalk while a camera pans around him",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 132.377,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.7,
+                              6.5
+                        ],
+                        "raw_box": [
+                              0.7,
+                              6.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see the ending title screen",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 132.377,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.9,
+                              17.2
+                        ],
+                        "raw_box": [
+                              0.9,
+                              17.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking around a car and walking around a building",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 132.377,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              126.6,
+                              131.8
+                        ],
+                        "raw_box": [
+                              126.6,
+                              131.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see a title screen",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 132.377,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              95.9,
+                              132.4
+                        ],
+                        "raw_box": [
+                              95.9,
+                              132.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a bike and holding a bike up a bike",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 132.377,
+                        "pred_event_count": 6
+                  }
+            ],
+            "Normal_Videos_100_x264": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              18.1
+                        ],
+                        "raw_box": [
+                              0.0,
+                              18.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen speaking to the camera while holding a dart board",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 20.945,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              7.0
+                        ],
+                        "raw_box": [
+                              0.0,
+                              7.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see the ending title screen",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 20.945,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              15.1,
+                              20.6
+                        ],
+                        "raw_box": [
+                              15.1,
+                              20.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a table with a table and looking at the camera",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 20.945,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.7,
+                              2.5
+                        ],
+                        "raw_box": [
+                              0.7,
+                              2.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing on a table with a white words on the screen",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 20.945,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              1.6
+                        ],
+                        "raw_box": [
+                              0.0,
+                              1.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing on a table with a white words on the screen",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 20.945,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Fighting019_x264A": [
+                  {
+                        "timestamp": [
+                              13.6,
+                              107.3
+                        ],
+                        "raw_box": [
+                              13.6,
+                              107.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen kneeling down on a piece of wood while a man walks around the room",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 107.253,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              26.8
+                        ],
+                        "raw_box": [
+                              0.0,
+                              26.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking around a room and pushing a piece of wood with a machine",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 107.253,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              8.7,
+                              51.3
+                        ],
+                        "raw_box": [
+                              8.7,
+                              51.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a car while a man is standing on a car and another man is standing on the man is standing on the car",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 107.253,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              0.9,
+                              9.7
+                        ],
+                        "raw_box": [
+                              0.9,
+                              9.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A black screen appears with white words on the screen",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 107.253,
+                        "pred_event_count": 4
+                  }
+            ],
+            "Robbery003_x264": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              20.8
+                        ],
+                        "raw_box": [
+                              0.0,
+                              20.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen speaking to the camera while holding a camera and leads into him holding a bottle of beer",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 32.879,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              7.1
+                        ],
+                        "raw_box": [
+                              0.0,
+                              7.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a table with a knife and holding a knife",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 32.879,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              17.6,
+                              32.9
+                        ],
+                        "raw_box": [
+                              17.6,
+                              32.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen speaking to the camera while holding a sandwich in his hand",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 32.879,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              26.9,
+                              32.9
+                        ],
+                        "raw_box": [
+                              26.9,
+                              32.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a table with a dart board and looking at the camera",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 32.879,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.4,
+                              2.0
+                        ],
+                        "raw_box": [
+                              0.4,
+                              2.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is seen sitting on a table with a white cloth",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 32.879,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Fighting015_x264A": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              67.2
+                        ],
+                        "raw_box": [
+                              0.0,
+                              67.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man then takes the bow and shows the camera while the camera pans around the area",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 330.954,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              15.8,
+                              42.7
+                        ],
+                        "raw_box": [
+                              15.8,
+                              42.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man is then seen walking back and fourth while another man walks away",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 330.954,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              250.2
+                        ],
+                        "raw_box": [
+                              0.0,
+                              250.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in a large green shirt",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 330.954,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              2.8,
+                              18.8
+                        ],
+                        "raw_box": [
+                              2.8,
+                              18.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The camera pans around the man 's face and shows the camera and shows the camera",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 330.954,
+                        "pred_event_count": 4
+                  }
+            ],
+            "Burglary002_x264A": [
+                  {
+                        "timestamp": [
+                              24.8,
+                              48.3
+                        ],
+                        "raw_box": [
+                              24.8,
+                              48.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man then takes the brush off the car and shows the finished product",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 102.168,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              1.3,
+                              32.7
+                        ],
+                        "raw_box": [
+                              1.3,
+                              32.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man then uses a brush to clean the car",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 102.168,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              88.6,
+                              102.2
+                        ],
+                        "raw_box": [
+                              88.6,
+                              102.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen speaking to the camera and leads into a car and leads into a car",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 102.168,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              10.9
+                        ],
+                        "raw_box": [
+                              0.0,
+                              10.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is shown cleaning a car with a brush",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 102.168,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              15.6,
+                              102.2
+                        ],
+                        "raw_box": [
+                              15.6,
+                              102.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is seen walking around a car and speaking to the camera",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 102.168,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Arson005_x264": [
+                  {
+                        "timestamp": [
+                              9.4,
+                              39.2
+                        ],
+                        "raw_box": [
+                              9.4,
+                              39.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The camera pans around the end and leads into a person walking around the room",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 39.188,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              8.0
+                        ],
+                        "raw_box": [
+                              0.0,
+                              8.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing in a kitchen and begins to walk away from the camera",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 39.188,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              20.5
+                        ],
+                        "raw_box": [
+                              0.0,
+                              20.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man then walks back to the camera and forth",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 39.188,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              1.8
+                        ],
+                        "raw_box": [
+                              0.0,
+                              1.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing on a floor with a long pole in his hands",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 39.188,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              31.0,
+                              38.9
+                        ],
+                        "raw_box": [
+                              31.0,
+                              38.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see the ending title screen",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 39.188,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.4,
+                              0.9
+                        ],
+                        "raw_box": [
+                              0.4,
+                              0.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing on a floor with a long pole in his hands",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 39.188,
+                        "pred_event_count": 6
+                  }
+            ],
+            "Normal_Videos_050_x264": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              139.9
+                        ],
+                        "raw_box": [
+                              0.0,
+                              139.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is riding a skateboard on a road",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 139.947,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              15.5,
+                              54.5
+                        ],
+                        "raw_box": [
+                              15.5,
+                              54.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "He is going down the road and the car",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 139.947,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              16.5
+                        ],
+                        "raw_box": [
+                              0.0,
+                              16.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man gets up and gets up and gets out the car",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 139.947,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              118.5,
+                              139.9
+                        ],
+                        "raw_box": [
+                              118.5,
+                              139.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "He is driving the car down the road",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 139.947,
+                        "pred_event_count": 4
+                  }
+            ],
+            "Arson007_x264": [
+                  {
+                        "timestamp": [
+                              1.4,
+                              60.9
+                        ],
+                        "raw_box": [
+                              1.4,
+                              60.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "He continues to move the snow off the snow and the camera pans around the end with the end",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 208.445,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              8.2,
+                              208.4
+                        ],
+                        "raw_box": [
+                              8.2,
+                              208.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in a yard",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 208.445,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.9,
+                              16.1
+                        ],
+                        "raw_box": [
+                              0.9,
+                              16.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man continues to play with the camera and ends with the camera pans around his back to show the end",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 208.445,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.1,
+                              7.2
+                        ],
+                        "raw_box": [
+                              0.1,
+                              7.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see the ending title screen",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 208.445,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              192.4,
+                              208.0
+                        ],
+                        "raw_box": [
+                              192.4,
+                              208.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is seen walking around a room and leads into a close up of a close",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 208.445,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Fighting017_x264A": [
+                  {
+                        "timestamp": [
+                              2.6,
+                              17.3
+                        ],
+                        "raw_box": [
+                              2.6,
+                              17.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man puts the car down and puts the car down",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 69.267,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              1.0,
+                              8.6
+                        ],
+                        "raw_box": [
+                              1.0,
+                              8.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man walks by and walks away",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 69.267,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              53.6,
+                              68.1
+                        ],
+                        "raw_box": [
+                              53.6,
+                              68.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking around a field with a large green disc on his back",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 69.267,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              9.1,
+                              66.7
+                        ],
+                        "raw_box": [
+                              9.1,
+                              66.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "He is using a car to wash the car",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 69.267,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              66.7,
+                              69.3
+                        ],
+                        "raw_box": [
+                              66.7,
+                              69.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing on a court holding a tennis racket",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 69.267,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              3.0
+                        ],
+                        "raw_box": [
+                              0.0,
+                              3.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking down a street with a car",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 69.267,
+                        "pred_event_count": 6
+                  }
+            ],
+            "Shooting003_x264A": [
+                  {
+                        "timestamp": [
+                              1.8,
+                              16.4
+                        ],
+                        "raw_box": [
+                              1.8,
+                              16.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking up a hill and begins to walk down a snowy road",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 76.023,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              25.7,
+                              76.0
+                        ],
+                        "raw_box": [
+                              25.7,
+                              76.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is climbing a roof",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 76.023,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.1,
+                              5.2
+                        ],
+                        "raw_box": [
+                              0.1,
+                              5.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see a title screen",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 76.023,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              69.9,
+                              76.0
+                        ],
+                        "raw_box": [
+                              69.9,
+                              76.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is walking in a parking lot",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 76.023,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              6.8,
+                              33.3
+                        ],
+                        "raw_box": [
+                              6.8,
+                              33.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking down the street while the camera pans around the area",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 76.023,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              59.6,
+                              76.0
+                        ],
+                        "raw_box": [
+                              59.6,
+                              76.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking around a building and begins to walk around the area",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 76.023,
+                        "pred_event_count": 6
+                  }
+            ],
+            "Vandalism007_x264": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              20.8
+                        ],
+                        "raw_box": [
+                              0.0,
+                              20.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is cleaning the car with a car",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 38.244,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              27.9,
+                              38.2
+                        ],
+                        "raw_box": [
+                              27.9,
+                              38.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see the ending title screen",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 38.244,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              0.4,
+                              6.4
+                        ],
+                        "raw_box": [
+                              0.4,
+                              6.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is cleaning the car with a car",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 38.244,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              20.5,
+                              34.1
+                        ],
+                        "raw_box": [
+                              20.5,
+                              34.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man cleans the car with a car",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 38.244,
+                        "pred_event_count": 4
+                  }
+            ],
+            "RoadAccidents001_x264": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              12.3
+                        ],
+                        "raw_box": [
+                              0.0,
+                              12.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing in a kitchen with a snow covered with snow",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 45.618,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              28.3,
+                              45.6
+                        ],
+                        "raw_box": [
+                              28.3,
+                              45.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man continues to talk to the camera while the camera",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 45.618,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              3.0,
+                              23.8
+                        ],
+                        "raw_box": [
+                              3.0,
+                              23.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen speaking to the camera while holding a shovel and leads into a car",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 45.618,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.9,
+                              4.7
+                        ],
+                        "raw_box": [
+                              0.9,
+                              4.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing in front of a house with a snow",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 45.618,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              43.8,
+                              45.4
+                        ],
+                        "raw_box": [
+                              43.8,
+                              45.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a couch",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 45.618,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Normal_Videos_015_x264": [
+                  {
+                        "timestamp": [
+                              0.6,
+                              15.5
+                        ],
+                        "raw_box": [
+                              0.6,
+                              15.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "He continues to walk around the house and walks away",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 16.045,
+                        "pred_event_count": 7
+                  },
+                  {
+                        "timestamp": [
+                              0.4,
+                              3.7
+                        ],
+                        "raw_box": [
+                              0.4,
+                              3.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is seen walking down a slide",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 16.045,
+                        "pred_event_count": 7
+                  },
+                  {
+                        "timestamp": [
+                              14.3,
+                              15.6
+                        ],
+                        "raw_box": [
+                              14.3,
+                              15.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing on a roof with a vacuum",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 16.045,
+                        "pred_event_count": 7
+                  },
+                  {
+                        "timestamp": [
+                              0.2,
+                              1.7
+                        ],
+                        "raw_box": [
+                              0.2,
+                              1.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A young boy is seen walking up a slide",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 16.045,
+                        "pred_event_count": 7
+                  },
+                  {
+                        "timestamp": [
+                              10.2,
+                              15.8
+                        ],
+                        "raw_box": [
+                              10.2,
+                              15.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see a title screen",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 16.045,
+                        "pred_event_count": 7
+                  },
+                  {
+                        "timestamp": [
+                              15.4,
+                              16.0
+                        ],
+                        "raw_box": [
+                              15.4,
+                              16.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing on a roof with a vacuum",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 16.045,
+                        "pred_event_count": 7
+                  },
+                  {
+                        "timestamp": [
+                              13.3,
+                              14.6
+                        ],
+                        "raw_box": [
+                              13.3,
+                              14.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is seen walking up a door",
+                        "sentence_score": 0,
+                        "query_id": 6,
+                        "vid_duration": 16.045,
+                        "pred_event_count": 7
+                  }
+            ],
+            "Vandalism006_x264": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              18.2
+                        ],
+                        "raw_box": [
+                              0.0,
+                              18.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "He continues to walk around the street",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 27.085,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              14.3,
+                              27.1
+                        ],
+                        "raw_box": [
+                              14.3,
+                              27.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The dog is walking on the ground",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 27.085,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              0.5,
+                              6.5
+                        ],
+                        "raw_box": [
+                              0.5,
+                              6.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "He then picks up the vacuum and walks away",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 27.085,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              0.5,
+                              2.6
+                        ],
+                        "raw_box": [
+                              0.5,
+                              2.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking up a long board and begins to walk away",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 27.085,
+                        "pred_event_count": 4
+                  }
+            ],
+            "Explosion001_x264A": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              20.6
+                        ],
+                        "raw_box": [
+                              0.0,
+                              20.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A video is shown of a video followed by a man walking out of a building",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 21.734,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              15.1,
+                              21.7
+                        ],
+                        "raw_box": [
+                              15.1,
+                              21.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The credits of the video are shown",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 21.734,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              2.1
+                        ],
+                        "raw_box": [
+                              0.0,
+                              2.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see a title screen",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 21.734,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.3,
+                              6.7
+                        ],
+                        "raw_box": [
+                              0.3,
+                              6.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A close up of a sink is shown followed by a person cleaning a picture of the sink",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 21.734,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              2.8,
+                              10.1
+                        ],
+                        "raw_box": [
+                              2.8,
+                              10.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A close up of a sink is shown followed by a person walking up to the door",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 21.734,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Explosion004_x264A": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              9.4
+                        ],
+                        "raw_box": [
+                              0.0,
+                              9.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man continues to wash his face with the smoke",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 63.53,
+                        "pred_event_count": 3
+                  },
+                  {
+                        "timestamp": [
+                              47.3,
+                              63.0
+                        ],
+                        "raw_box": [
+                              47.3,
+                              63.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man continues to talk to the camera while the camera while the camera captures him from the camera",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 63.53,
+                        "pred_event_count": 3
+                  },
+                  {
+                        "timestamp": [
+                              3.0,
+                              25.0
+                        ],
+                        "raw_box": [
+                              3.0,
+                              25.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking around a room and begins to clean a car with a cloth",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 63.53,
+                        "pred_event_count": 3
+                  }
+            ],
+            "Shooting001_x264A": [
+                  {
+                        "timestamp": [
+                              0.4,
+                              6.5
+                        ],
+                        "raw_box": [
+                              0.4,
+                              6.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing in front of a sink with a woman standing in a bathroom",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 8.522,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              0.1,
+                              1.8
+                        ],
+                        "raw_box": [
+                              0.1,
+                              1.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a table with a white dog on his face",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 8.522,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              7.6,
+                              8.5
+                        ],
+                        "raw_box": [
+                              7.6,
+                              8.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a table with a woman in a woman in a white shirt",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 8.522,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              8.2,
+                              8.5
+                        ],
+                        "raw_box": [
+                              8.2,
+                              8.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a table with a woman in a woman in a white shirt",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 8.522,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              4.9,
+                              8.5
+                        ],
+                        "raw_box": [
+                              4.9,
+                              8.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A woman is seen sitting on a chair with a woman in her hand and looking at the camera",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 8.522,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              6.1,
+                              6.4
+                        ],
+                        "raw_box": [
+                              6.1,
+                              6.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A woman is seen sitting on a table with a woman in her hand",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 8.522,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              0.6,
+                              1.2
+                        ],
+                        "raw_box": [
+                              0.6,
+                              1.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a table with a white dog on his face",
+                        "sentence_score": 0,
+                        "query_id": 6,
+                        "vid_duration": 8.522,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              6.8,
+                              7.4
+                        ],
+                        "raw_box": [
+                              6.8,
+                              7.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a table with a woman in a woman in a white shirt",
+                        "sentence_score": 0,
+                        "query_id": 7,
+                        "vid_duration": 8.522,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              1.1,
+                              1.7
+                        ],
+                        "raw_box": [
+                              1.1,
+                              1.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a table with a white dog on his face",
+                        "sentence_score": 0,
+                        "query_id": 8,
+                        "vid_duration": 8.522,
+                        "pred_event_count": 9
+                  }
+            ],
+            "Vandalism002_x264": [
+                  {
+                        "timestamp": [
+                              1.2,
+                              59.5
+                        ],
+                        "raw_box": [
+                              1.2,
+                              59.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The person continues to move and ends by walking around the house",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 61.394,
+                        "pred_event_count": 2
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              16.8
+                        ],
+                        "raw_box": [
+                              0.0,
+                              16.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man continues to walk around the room and ends with the camera",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 61.394,
+                        "pred_event_count": 2
+                  }
+            ],
+            "Arson006_x264": [
+                  {
+                        "timestamp": [
+                              2.2,
+                              25.1
+                        ],
+                        "raw_box": [
+                              2.2,
+                              25.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking around a house and leads into a dog walking around the house",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 93.9,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              32.3,
+                              46.3
+                        ],
+                        "raw_box": [
+                              32.3,
+                              46.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man continues to wash the snow off of the house",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 93.9,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.8,
+                              5.5
+                        ],
+                        "raw_box": [
+                              0.8,
+                              5.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see a black opening screen",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 93.9,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              93.9
+                        ],
+                        "raw_box": [
+                              0.0,
+                              93.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is seen walking around a house and begins walking around the house",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 93.9,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              12.2
+                        ],
+                        "raw_box": [
+                              0.0,
+                              12.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen speaking to the camera while holding a bottle of water",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 93.9,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Vandalism003_x264": [
+                  {
+                        "timestamp": [
+                              0.1,
+                              12.2
+                        ],
+                        "raw_box": [
+                              0.1,
+                              12.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen riding a skateboard down a road while a man is shown in a large green shirt is walking in the middle of the middle of the",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 49.098,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              38.1,
+                              49.1
+                        ],
+                        "raw_box": [
+                              38.1,
+                              49.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking along the road and begins to walk along the road",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 49.098,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              20.3,
+                              49.1
+                        ],
+                        "raw_box": [
+                              20.3,
+                              49.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man continues to ride along the road while the camera captures his movements",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 49.098,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              1.4,
+                              5.3
+                        ],
+                        "raw_box": [
+                              1.4,
+                              5.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is riding a skateboard down a road",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 49.098,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              34.7
+                        ],
+                        "raw_box": [
+                              0.0,
+                              34.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man continues to ride around and ends by walking around and the man riding the road",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 49.098,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Robbery004_x264": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              51.1
+                        ],
+                        "raw_box": [
+                              0.0,
+                              51.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is sitting on a chair",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 51.051,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.2,
+                              9.1
+                        ],
+                        "raw_box": [
+                              0.2,
+                              9.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a chair while another man is shown sitting on a table",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 51.051,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              31.0,
+                              50.8
+                        ],
+                        "raw_box": [
+                              31.0,
+                              50.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man then takes the drink and the man takes a drink",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 51.051,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              1.4,
+                              21.1
+                        ],
+                        "raw_box": [
+                              1.4,
+                              21.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man is then shown again and the man is sitting on the chair",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 51.051,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              7.8,
+                              9.5
+                        ],
+                        "raw_box": [
+                              7.8,
+                              9.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man in a black shirt is standing on a desk",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 51.051,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Fighting018_x264A": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              10.8
+                        ],
+                        "raw_box": [
+                              0.0,
+                              10.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking down a street with a dog in his hand and begins walking down a street",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 46.371,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.5,
+                              2.8
+                        ],
+                        "raw_box": [
+                              0.5,
+                              2.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing on a sidewalk with a white words on it",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 46.371,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              17.2,
+                              46.4
+                        ],
+                        "raw_box": [
+                              17.2,
+                              46.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man continues to move down the track and down the road",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 46.371,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              4.9,
+                              16.4
+                        ],
+                        "raw_box": [
+                              4.9,
+                              16.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking down a street with a dog in his hand and then begins to run down a street",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 46.371,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              35.8,
+                              46.4
+                        ],
+                        "raw_box": [
+                              35.8,
+                              46.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The credits of the video are shown",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 46.371,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Shooting004_x264A": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              12.9
+                        ],
+                        "raw_box": [
+                              0.0,
+                              12.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking up to the camera and leads into a close up of a car",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 59.792,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              6.5,
+                              28.2
+                        ],
+                        "raw_box": [
+                              6.5,
+                              28.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen kneeling down on a car and begins to wash his face",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 59.792,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.3,
+                              5.2
+                        ],
+                        "raw_box": [
+                              0.3,
+                              5.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see a title screen",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 59.792,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              19.5,
+                              35.4
+                        ],
+                        "raw_box": [
+                              19.5,
+                              35.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "He then walks away from the camera",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 59.792,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              43.3,
+                              59.4
+                        ],
+                        "raw_box": [
+                              43.3,
+                              59.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The person then cleans the floor with the cloth",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 59.792,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              56.0,
+                              59.8
+                        ],
+                        "raw_box": [
+                              56.0,
+                              59.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The video ends with the closing credits",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 59.792,
+                        "pred_event_count": 6
+                  }
+            ],
+            "Arson001_x264": [
+                  {
+                        "timestamp": [
+                              3.3,
+                              139.6
+                        ],
+                        "raw_box": [
+                              3.3,
+                              139.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is seen walking around a house and cleaning snow off a car with a car",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 139.599,
+                        "pred_event_count": 8
+                  },
+                  {
+                        "timestamp": [
+                              0.8,
+                              19.4
+                        ],
+                        "raw_box": [
+                              0.8,
+                              19.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is seen speaking to the camera and leads into a person walking around the house",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 139.599,
+                        "pred_event_count": 8
+                  },
+                  {
+                        "timestamp": [
+                              119.3,
+                              139.6
+                        ],
+                        "raw_box": [
+                              119.3,
+                              139.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The video ends with the closing credits",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 139.599,
+                        "pred_event_count": 8
+                  },
+                  {
+                        "timestamp": [
+                              4.0,
+                              40.7
+                        ],
+                        "raw_box": [
+                              4.0,
+                              40.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is seen walking around a house while a person is walking around the house",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 139.599,
+                        "pred_event_count": 8
+                  },
+                  {
+                        "timestamp": [
+                              0.6,
+                              6.7
+                        ],
+                        "raw_box": [
+                              0.6,
+                              6.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see the ending title screen",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 139.599,
+                        "pred_event_count": 8
+                  },
+                  {
+                        "timestamp": [
+                              137.5,
+                              139.6
+                        ],
+                        "raw_box": [
+                              137.5,
+                              139.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see a title screen",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 139.599,
+                        "pred_event_count": 8
+                  },
+                  {
+                        "timestamp": [
+                              15.3,
+                              23.3
+                        ],
+                        "raw_box": [
+                              15.3,
+                              23.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking up a house and cleaning a car with a cloth",
+                        "sentence_score": 0,
+                        "query_id": 6,
+                        "vid_duration": 139.599,
+                        "pred_event_count": 8
+                  },
+                  {
+                        "timestamp": [
+                              90.0,
+                              137.3
+                        ],
+                        "raw_box": [
+                              90.0,
+                              137.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "He continues to talk , the camera pans around the car and the man continues to talk",
+                        "sentence_score": 0,
+                        "query_id": 7,
+                        "vid_duration": 139.599,
+                        "pred_event_count": 8
+                  }
+            ],
+            "Robbery002_x264": [
+                  {
+                        "timestamp": [
+                              20.3,
+                              106.8
+                        ],
+                        "raw_box": [
+                              20.3,
+                              106.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a couch with a long long long long long long long long long long long long long long long long long long long long",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 106.767,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              3.2,
+                              23.0
+                        ],
+                        "raw_box": [
+                              3.2,
+                              23.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is seen sitting on a couch with a tattoo tattoo artist sitting on it",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 106.767,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              12.0,
+                              52.0
+                        ],
+                        "raw_box": [
+                              12.0,
+                              52.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a couch with a black tattoo artist sitting on a black couch",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 106.767,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              85.8,
+                              106.8
+                        ],
+                        "raw_box": [
+                              85.8,
+                              106.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man continues to play while the camera captures him from the camera",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 106.767,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              1.6,
+                              4.4
+                        ],
+                        "raw_box": [
+                              1.6,
+                              4.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see a title screen",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 106.767,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Burglary003_x264A": [
+                  {
+                        "timestamp": [
+                              0.3,
+                              1.6
+                        ],
+                        "raw_box": [
+                              0.3,
+                              1.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in a room talking to the camera",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              1.3,
+                              5.6
+                        ],
+                        "raw_box": [
+                              1.3,
+                              5.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in front of a house",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              39.1
+                        ],
+                        "raw_box": [
+                              0.0,
+                              39.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man in the black shirt is standing in the bathroom",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              8.5,
+                              9.9
+                        ],
+                        "raw_box": [
+                              8.5,
+                              9.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in front of a table",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              13.5
+                        ],
+                        "raw_box": [
+                              0.0,
+                              13.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in front of a house and cleaning a kitchen",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              6.0,
+                              7.5
+                        ],
+                        "raw_box": [
+                              6.0,
+                              7.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in front of a table with a white bucket",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              10.8,
+                              12.1
+                        ],
+                        "raw_box": [
+                              10.8,
+                              12.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in front of a table with a white bucket",
+                        "sentence_score": 0,
+                        "query_id": 6,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              13.3,
+                              14.8
+                        ],
+                        "raw_box": [
+                              13.3,
+                              14.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in front of a table with a white bucket of a house",
+                        "sentence_score": 0,
+                        "query_id": 7,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              33.5,
+                              38.6
+                        ],
+                        "raw_box": [
+                              33.5,
+                              38.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in front of a mirror",
+                        "sentence_score": 0,
+                        "query_id": 8,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              14.9,
+                              24.2
+                        ],
+                        "raw_box": [
+                              14.9,
+                              24.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in front of a camera and talking",
+                        "sentence_score": 0,
+                        "query_id": 9,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              23.8,
+                              39.1
+                        ],
+                        "raw_box": [
+                              23.8,
+                              39.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen speaking to the camera while holding a cigarette and leads into him holding a cup",
+                        "sentence_score": 0,
+                        "query_id": 10,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              15.9,
+                              17.2
+                        ],
+                        "raw_box": [
+                              15.9,
+                              17.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in front of a house",
+                        "sentence_score": 0,
+                        "query_id": 11,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              3.3,
+                              4.8
+                        ],
+                        "raw_box": [
+                              3.3,
+                              4.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in a kitchen",
+                        "sentence_score": 0,
+                        "query_id": 12,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              9.7,
+                              18.6
+                        ],
+                        "raw_box": [
+                              9.7,
+                              18.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in front of a kitchen with a white bucket of a kitchen",
+                        "sentence_score": 0,
+                        "query_id": 13,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  },
+                  {
+                        "timestamp": [
+                              38.2,
+                              39.1
+                        ],
+                        "raw_box": [
+                              38.2,
+                              39.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing in front of a house",
+                        "sentence_score": 0,
+                        "query_id": 14,
+                        "vid_duration": 39.1,
+                        "pred_event_count": 15
+                  }
+            ],
+            "Fighting016_x264A": [
+                  {
+                        "timestamp": [
+                              12.4,
+                              96.9
+                        ],
+                        "raw_box": [
+                              12.4,
+                              96.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is sitting on a couch",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 96.851,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.8,
+                              9.4
+                        ],
+                        "raw_box": [
+                              0.8,
+                              9.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a couch and leads into a man putting a tattoo on a phone on the screen",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 96.851,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              3.7,
+                              15.8
+                        ],
+                        "raw_box": [
+                              3.7,
+                              15.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a couch and leads into him performing a tutorial on how to do a tattoo",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 96.851,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              73.6,
+                              96.9
+                        ],
+                        "raw_box": [
+                              73.6,
+                              96.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "People are sitting on the sides of the room",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 96.851,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              93.1,
+                              96.9
+                        ],
+                        "raw_box": [
+                              93.1,
+                              96.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see a black opening screen",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 96.851,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              1.6,
+                              4.7
+                        ],
+                        "raw_box": [
+                              1.6,
+                              4.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a couch with a tattoo on his phone",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 96.851,
+                        "pred_event_count": 6
+                  }
+            ],
+            "Arson002_x264": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              63.1
+                        ],
+                        "raw_box": [
+                              0.0,
+                              63.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing in a house and speaking to the camera and leads into him playing a game of a fence",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 148.038,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              2.4,
+                              16.7
+                        ],
+                        "raw_box": [
+                              2.4,
+                              16.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking up a wooden fence and holding a long paint his hands",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 148.038,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.2,
+                              8.7
+                        ],
+                        "raw_box": [
+                              0.2,
+                              8.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking up a wooden fence and looking at the camera",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 148.038,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              147.8,
+                              148.0
+                        ],
+                        "raw_box": [
+                              147.8,
+                              148.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A close up of a fence is shown followed by a person walking up a fence",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 148.038,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              133.1,
+                              146.6
+                        ],
+                        "raw_box": [
+                              133.1,
+                              146.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking down a fence and begins to walk down a long road",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 148.038,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Vandalism005_x264": [
+                  {
+                        "timestamp": [
+                              1.2,
+                              14.5
+                        ],
+                        "raw_box": [
+                              1.2,
+                              14.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing in front of a dart board and holding a dart board",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 54.206,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              36.9,
+                              54.2
+                        ],
+                        "raw_box": [
+                              36.9,
+                              54.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man then takes off the car and walks away",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 54.206,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              5.3
+                        ],
+                        "raw_box": [
+                              0.0,
+                              5.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see a title screen",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 54.206,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              9.3,
+                              54.2
+                        ],
+                        "raw_box": [
+                              9.3,
+                              54.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "He continues to move around the street and ends with a long brush",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 54.206,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              2.1
+                        ],
+                        "raw_box": [
+                              0.0,
+                              2.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen sitting on a table with a white words on the screen",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 54.206,
+                        "pred_event_count": 5
+                  }
+            ],
+            "Shooting002_x264A": [
+                  {
+                        "timestamp": [
+                              17.2,
+                              40.3
+                        ],
+                        "raw_box": [
+                              17.2,
+                              40.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man continues to play with the ball and ends by walking away",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 40.313,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              0.2,
+                              1.9
+                        ],
+                        "raw_box": [
+                              0.2,
+                              1.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing in front of a camera",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 40.313,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              0.3,
+                              15.9
+                        ],
+                        "raw_box": [
+                              0.3,
+                              15.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man then throws the ball back and forth at the end",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 40.313,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              35.7,
+                              40.1
+                        ],
+                        "raw_box": [
+                              35.7,
+                              40.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking up to the camera and leads into him walking away",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 40.313,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              1.0,
+                              5.9
+                        ],
+                        "raw_box": [
+                              1.0,
+                              5.9
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man then throws the ball back and forth",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 40.313,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              3.2,
+                              4.5
+                        ],
+                        "raw_box": [
+                              3.2,
+                              4.5
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing in front of a camera holding a dog",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 40.313,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              9.9,
+                              28.3
+                        ],
+                        "raw_box": [
+                              9.9,
+                              28.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The video ends with the closing credits",
+                        "sentence_score": 0,
+                        "query_id": 6,
+                        "vid_duration": 40.313,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              4.9,
+                              7.3
+                        ],
+                        "raw_box": [
+                              4.9,
+                              7.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man in a black shirt is standing on a table",
+                        "sentence_score": 0,
+                        "query_id": 7,
+                        "vid_duration": 40.313,
+                        "pred_event_count": 9
+                  },
+                  {
+                        "timestamp": [
+                              0.3,
+                              0.6
+                        ],
+                        "raw_box": [
+                              0.3,
+                              0.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing in front of a camera",
+                        "sentence_score": 0,
+                        "query_id": 8,
+                        "vid_duration": 40.313,
+                        "pred_event_count": 9
+                  }
+            ],
+            "Shooting005_x264A": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              45.1
+                        ],
+                        "raw_box": [
+                              0.0,
+                              45.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen standing in a room holding a piece of wood and holding a hose",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 177.749,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              12.7
+                        ],
+                        "raw_box": [
+                              0.0,
+                              12.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking up a fence and begins to walk away",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 177.749,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              177.7
+                        ],
+                        "raw_box": [
+                              0.0,
+                              177.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is standing in a kitchen talking in a kitchen",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 177.749,
+                        "pred_event_count": 4
+                  },
+                  {
+                        "timestamp": [
+                              8.4,
+                              20.4
+                        ],
+                        "raw_box": [
+                              8.4,
+                              20.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking around a kitchen and begins to wash his face",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 177.749,
+                        "pred_event_count": 4
+                  }
+            ],
+            "Explosion002_x264A": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              133.8
+                        ],
+                        "raw_box": [
+                              0.0,
+                              133.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is cleaning the car with a car",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 133.767,
+                        "pred_event_count": 7
+                  },
+                  {
+                        "timestamp": [
+                              0.4,
+                              29.7
+                        ],
+                        "raw_box": [
+                              0.4,
+                              29.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen walking around a car and begins walking around a car",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 133.767,
+                        "pred_event_count": 7
+                  },
+                  {
+                        "timestamp": [
+                              0.3,
+                              10.0
+                        ],
+                        "raw_box": [
+                              0.3,
+                              10.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A black screen appears with white words on the screen",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 133.767,
+                        "pred_event_count": 7
+                  },
+                  {
+                        "timestamp": [
+                              48.2,
+                              66.4
+                        ],
+                        "raw_box": [
+                              48.2,
+                              66.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "He continues to wash the car with the car",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 133.767,
+                        "pred_event_count": 7
+                  },
+                  {
+                        "timestamp": [
+                              9.2,
+                              53.7
+                        ],
+                        "raw_box": [
+                              9.2,
+                              53.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is seen walking around a car while a man is walking around a car",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 133.767,
+                        "pred_event_count": 7
+                  },
+                  {
+                        "timestamp": [
+                              117.0,
+                              133.8
+                        ],
+                        "raw_box": [
+                              117.0,
+                              133.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "He continues to wash the car with the car",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 133.767,
+                        "pred_event_count": 7
+                  },
+                  {
+                        "timestamp": [
+                              91.4,
+                              132.3
+                        ],
+                        "raw_box": [
+                              91.4,
+                              132.3
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man continues to wash the car with a cloth",
+                        "sentence_score": 0,
+                        "query_id": 6,
+                        "vid_duration": 133.767,
+                        "pred_event_count": 7
+                  }
+            ],
+            "Arson003_x264": [
+                  {
+                        "timestamp": [
+                              13.9,
+                              133.8
+                        ],
+                        "raw_box": [
+                              13.9,
+                              133.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A person is working on a roof",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 133.804,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.2,
+                              18.0
+                        ],
+                        "raw_box": [
+                              0.2,
+                              18.0
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen speaking to the camera while holding a bottle of the camera",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 133.804,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.0,
+                              67.2
+                        ],
+                        "raw_box": [
+                              0.0,
+                              67.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen speaking to the camera while holding a camera and leads into him walking away",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 133.804,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              89.8,
+                              133.8
+                        ],
+                        "raw_box": [
+                              89.8,
+                              133.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "The man continues to wash the car with a hose",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 133.804,
+                        "pred_event_count": 5
+                  },
+                  {
+                        "timestamp": [
+                              0.6,
+                              6.6
+                        ],
+                        "raw_box": [
+                              0.6,
+                              6.6
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see the ending title screen",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 133.804,
+                        "pred_event_count": 5
+                  }
+            ]
+      }
+}

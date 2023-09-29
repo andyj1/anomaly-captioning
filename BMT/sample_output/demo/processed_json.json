@@ -1,0 +1,102 @@
+{
+      "results": {
+            "women_long_jump": [
+                  {
+                        "timestamp": [
+                              0.0,
+                              5.1
+                        ],
+                        "raw_box": [
+                              0.0,
+                              5.1
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see a title screen",
+                        "sentence_score": 0,
+                        "query_id": 0,
+                        "vid_duration": 35.155,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              7.6,
+                              35.2
+                        ],
+                        "raw_box": [
+                              7.6,
+                              35.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A woman is seen running down a track and leads into several shots of her running down a track",
+                        "sentence_score": 0,
+                        "query_id": 1,
+                        "vid_duration": 35.155,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              7.8,
+                              11.8
+                        ],
+                        "raw_box": [
+                              7.8,
+                              11.8
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man in a red shirt is running down a track",
+                        "sentence_score": 0,
+                        "query_id": 2,
+                        "vid_duration": 35.155,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.5,
+                              2.4
+                        ],
+                        "raw_box": [
+                              0.5,
+                              2.4
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "We see a title screen",
+                        "sentence_score": 0,
+                        "query_id": 3,
+                        "vid_duration": 35.155,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              24.3,
+                              35.2
+                        ],
+                        "raw_box": [
+                              24.3,
+                              35.2
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen running down a track and running down a track",
+                        "sentence_score": 0,
+                        "query_id": 4,
+                        "vid_duration": 35.155,
+                        "pred_event_count": 6
+                  },
+                  {
+                        "timestamp": [
+                              0.8,
+                              13.7
+                        ],
+                        "raw_box": [
+                              0.8,
+                              13.7
+                        ],
+                        "proposal_score": 0,
+                        "sentence": "A man is seen running down a track and leads into a large crowd of people running down a track",
+                        "sentence_score": 0,
+                        "query_id": 5,
+                        "vid_duration": 35.155,
+                        "pred_event_count": 6
+                  }
+            ]
+      }
+}
